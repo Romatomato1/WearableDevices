@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Index
+comment0.text=\r\n\ Object\ to\ keep\ track\ of\ index.\r\n\r\n\ @author\ Roman\ Gofman\r\n\ @version\ 6/7/2020\r\n
+comment1.params=
+comment1.target=Index()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Index\r\n
+comment2.params=
+comment2.target=int\ getIndex()
+comment2.text=\r\n\ Method\ getIndex\ gets\ the\ index\r\n\r\n\ @return\ index;\ the\ index\r\n
+comment3.params=value
+comment3.target=void\ setIndex(int)
+comment3.text=\r\n\ Method\ setIndex\ changes\ the\ index\ value()\r\n\r\n\ @param\ value;\ the\ new\ index\ value\r\n
+numComments=4
